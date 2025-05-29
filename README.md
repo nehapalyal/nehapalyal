@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Neha Palyal
 
-<!--
-**nehapalyal/nehapalyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science enthusiast | 💡 Lifelong learner | 🤖 ML, DL, NLP | 🔍 Seeking Data Science Roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 💻 Passionate about building intelligent systems using **Machine Learning**, **Deep Learning**, and **NLP**
+- 🧠 Exploring **Generative AI**, **LangChain**, and **LLMs**
+- 🎯 Focused on turning data into real-world insights and applications
+- 🌐 Always open to collaborations and new challenges
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, Java, SQL  
+**Libraries/Frameworks:** TensorFlow, Keras, PyTorch, Scikit-Learn, OpenCV, Pandas, Seaborn  
+**Tools:** Git, GitHub, Streamlit, Jupyter, Google Colab  
+**Specialties:** ML | DL | NLP | Web Scraping | Generative AI
+
+---
+
+### 📫 Contact Me
+
+- ✉️ [nehakpalyal@gmail.com](mailto:nehakpalyal@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/neha-palyal-b28855295/)
+- 💻 [LeetCode](https://leetcode.com/u/nehapalyal/)
